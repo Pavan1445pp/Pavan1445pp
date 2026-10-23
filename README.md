@@ -1,70 +1,92 @@
-
-<!-- Animated DevOps Banner -->
+<!-- ========== ANIMATED BANNER ========== -->
 <p align="center">
   <img src="./Pavan_Natural_Typing_DevOps_Banner.gif"
        width="100%"
-       alt="Pavan's DevOps coding banner"/>
+       alt="Pavan's animated DevOps banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Pavan H S 👋</h1>
+<h1 align="center"><img src="./h_hi.svg" height="84" align="middle" alt="Hi, I'm Pavan H S"/> 👋</h1>
 
-<h3 align="center">Aspiring DevOps / CI/CD Engineer</h3>
+<h3 align="center"><img src="./h_sub.svg" height="67" align="middle" alt="Aspiring DevOps / CI/CD Engineer"/></h3>
 
 <p align="center">
-  Building, automating and deploying applications.
+  Building, Automating, Deploying and Learning 🚀
 </p>
 
 ---
 
-<h2>👨‍💻 About Me</h2>
+<!-- ========== ABOUT ME + SIDE GIF ========== -->
+<h2>👨‍💻 <img src="./h_about.svg" height="72" align="middle" alt="About Me"/></h2>
 
-<ul>
-  <li>🎓 B.E. graduate in Electronics and Communication Engineering</li>
-  <li>🚀 Aspiring DevOps / CI/CD Engineer</li>
-  <li>🛠️ Practising Git, GitHub, Jenkins, Docker, Linux and AWS EC2</li>
-  <li>💻 Building hands-on DevOps projects</li>
-  <li>🌱 Learning CI/CD automation and cloud deployment</li>
-  <li>🎯 Working towards an entry-level DevOps engineering role</li>
-</ul>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 B.E. graduate in Electronics and Communication Engineering</li>
+        <li>🚀 Aspiring DevOps / CI/CD Engineer</li>
+        <li>🛠️ Practising Git, GitHub, Jenkins, Docker, Linux and AWS EC2</li>
+        <li>💻 Building hands-on DevOps projects</li>
+        <li>🌱 Learning CI/CD automation and cloud deployment</li>
+        <li>🎯 Working towards an entry-level DevOps engineering role</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./devops_tools.gif"
+           width="100%"
+           alt="DevOps coding animation"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h2>🤝 Connect with Me</h2>
+<!-- ========== CONNECT WITH ME + GIF ON THE RIGHT ========== -->
+<h2>🤝 <img src="./h_connect.svg" height="72" align="middle" alt="Connect with Me"/></h2>
+
+<img align="right"
+     src="./connect_with_me.gif"
+     width="260"
+     alt="Let's connect animation"/>
 
 <p>
   <a href="https://github.com/Pavan1445pp">
-    <img src="https://skillicons.dev/icons?i=github"
-         width="38"
+    <img src="./github.svg"
+         width="56"
          alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pavan-h-s-657823259/?isSelfProfile=true">
-    <img src="https://skillicons.dev/icons?i=linkedin"
-         width="38"
+    <img src="./linkedin.svg"
+         width="56"
          alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:pavanhs1011@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
-         width="38"
+    <img src="./gmail.svg"
+         width="56"
          alt="Gmail"/>
   </a>
 </p>
 
----
+<br/>
+<br/>
+<br/>
 
-<h2>🧰 Languages and Tools</h2>
+<!-- ========== LANGUAGES AND TOOLS (ANIMATED ICONS) ========== -->
+<h2>🧰 <img src="./h_tools.svg" height="72" align="middle" alt="Languages and Tools"/></h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,aws,linux,bash,nginx,html,css,js"
+  <img src="./tools.svg"
+       width="760"
        alt="Git, GitHub, Jenkins, Docker, AWS, Linux, Bash, Nginx, HTML, CSS and JavaScript"/>
 </p>
 
 ---
 
-<h2>🚀 Featured Project</h2>
+<!-- ========== FEATURED PROJECT ========== -->
+<h2>🚀 <img src="./h_project.svg" height="72" align="middle" alt="Featured Project"/></h2>
 
-<h3>📚 DevOps Book Store</h3>
+<h3>📚 <img src="./h_book.svg" height="67" align="middle" alt="DevOps Book Store"/></h3>
 
 <p>
   A web-based bookstore project used to practise application
@@ -72,10 +94,10 @@
 </p>
 
 <ul>
-  <li>🌐 Built a bookstore website using HTML, CSS and JavaScript</li>
-  <li>🔀 Used Git and GitHub for version control</li>
-  <li>🐳 Practised Docker containerization</li>
-  <li>☁️ Worked with AWS EC2 for deployment</li>
+  <li>🌐 Developed a bookstore interface using HTML, CSS and JavaScript</li>
+  <li>🔀 Practised version control using Git and GitHub</li>
+  <li>🐳 Worked on Docker containerization</li>
+  <li>☁️ Practised deployment on AWS EC2</li>
   <li>⚙️ Exploring Jenkins CI/CD automation</li>
 </ul>
 
@@ -88,28 +110,25 @@
 
 ---
 
-<h2>⚙️ My DevOps Workflow</h2>
+<!-- ========== DEVOPS WORKFLOW ========== -->
+<h2>⚙️ <img src="./h_workflow.svg" height="72" align="middle" alt="My DevOps Workflow"/></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Git-F05032?style=flat-square&logo=git&logoColor=white"
-       alt="Git"/>
+  <img src="https://img.shields.io/badge/Code-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   →
-  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white"
-       alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   →
-  <img src="https://img.shields.io/badge/Build-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"
-       alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Build-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
   →
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
-       alt="Docker"/>
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   →
-  <img src="https://img.shields.io/badge/Deploy-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"
-       alt="AWS"/>
+  <img src="https://img.shields.io/badge/Deploy-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
-<h2>📈 GitHub Statistics</h2>
+<!-- ========== GITHUB STATISTICS ========== -->
+<h2>📊 <img src="./h_stats.svg" height="72" align="middle" alt="GitHub Statistics"/></h2>
 
 <p align="center">
   <img height="165"
@@ -122,7 +141,8 @@
 
 ---
 
-<h2>🎯 Currently Learning</h2>
+<!-- ========== CURRENT LEARNING ========== -->
+<h2>🎯 <img src="./h_learning.svg" height="72" align="middle" alt="Currently Learning"/></h2>
 
 <ul>
   <li>Jenkins pipelines and CI/CD</li>
