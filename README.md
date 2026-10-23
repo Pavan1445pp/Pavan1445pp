@@ -1,7 +1,7 @@
 
 <!-- Animated DevOps Banner -->
 <p align="center">
-  <img src="./YOUR_EXACT_GIF_FILENAME.gif"
+  <img src="./Pavan_Natural_Typing_DevOps_Banner.gif"
        width="100%"
        alt="Pavan's DevOps coding banner"/>
 </p>
