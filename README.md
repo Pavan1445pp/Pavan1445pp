@@ -5,23 +5,25 @@
        alt="Pavan's animated DevOps banner"/>
 </p>
 
-<h1 align="center"><img src="./h_hi.svg" height="84" align="middle" alt="Hi, I'm Pavan H S"/> 👋</h1>
+<p align="center"><img src="./h_hi.svg" height="84" align="middle" alt="Hi, I'm Pavan H S"/> 👋</p>
 
-<h3 align="center"><img src="./h_sub.svg" height="67" align="middle" alt="Aspiring DevOps / CI/CD Engineer"/></h3>
+<p align="center"><img src="./h_sub.svg" height="67" align="middle" alt="Aspiring DevOps / CI/CD Engineer"/></p>
 
 <p align="center">
   Building, Automating, Deploying and Learning 🚀
 </p>
 
----
+<br/>
 
 <!-- ========== ABOUT ME + SIDE GIF ========== -->
-<h2>👨‍💻 <img src="./h_about.svg" height="72" align="middle" alt="About Me"/></h2>
+<p>👨‍💻 <img src="./h_about.svg" height="72" align="middle" alt="About Me"/></p>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
+<img align="right"
+     src="./devops_tools.gif"
+     width="320"
+     alt="DevOps coding animation"/>
+
+<ul>
         <li>🎓 B.E. graduate in Electronics and Communication Engineering</li>
         <li>🚀 Aspiring DevOps / CI/CD Engineer</li>
         <li>🛠️ Practising Git, GitHub, Jenkins, Docker, Linux and AWS EC2</li>
@@ -29,19 +31,13 @@
         <li>🌱 Learning CI/CD automation and cloud deployment</li>
         <li>🎯 Working towards an entry-level DevOps engineering role</li>
       </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./devops_tools.gif"
-           width="100%"
-           alt="DevOps coding animation"/>
-    </td>
-  </tr>
-</table>
 
----
+<br clear="right"/>
+
+<br/>
 
 <!-- ========== CONNECT WITH ME + GIF ON THE RIGHT ========== -->
-<h2>🤝 <img src="./h_connect.svg" height="72" align="middle" alt="Connect with Me"/></h2>
+<p>🤝 <img src="./h_connect.svg" height="72" align="middle" alt="Connect with Me"/></p>
 
 <img align="right"
      src="./connect_with_me.gif"
@@ -73,7 +69,7 @@
 <br/>
 
 <!-- ========== LANGUAGES AND TOOLS (ANIMATED ICONS) ========== -->
-<h2>🧰 <img src="./h_tools.svg" height="72" align="middle" alt="Languages and Tools"/></h2>
+<p>🧰 <img src="./h_tools.svg" height="72" align="middle" alt="Languages and Tools"/></p>
 
 <p>
   <img src="./tools.svg"
@@ -81,12 +77,12 @@
        alt="Git, GitHub, Jenkins, Docker, AWS, Linux, Bash, Nginx, HTML, CSS and JavaScript"/>
 </p>
 
----
+<br/>
 
 <!-- ========== FEATURED PROJECT ========== -->
-<h2>🚀 <img src="./h_project.svg" height="72" align="middle" alt="Featured Project"/></h2>
+<p>🚀 <img src="./h_project.svg" height="72" align="middle" alt="Featured Project"/></p>
 
-<h3>📚 <img src="./h_book.svg" height="67" align="middle" alt="DevOps Book Store"/></h3>
+<p>📚 <img src="./h_book.svg" height="67" align="middle" alt="DevOps Book Store"/></p>
 
 <p>
   A web-based bookstore project used to practise application
@@ -108,10 +104,10 @@
   </a>
 </p>
 
----
+<br/>
 
 <!-- ========== DEVOPS WORKFLOW ========== -->
-<h2>⚙️ <img src="./h_workflow.svg" height="72" align="middle" alt="My DevOps Workflow"/></h2>
+<p>⚙️ <img src="./h_workflow.svg" height="72" align="middle" alt="My DevOps Workflow"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -125,10 +121,10 @@
   <img src="https://img.shields.io/badge/Deploy-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
----
+<br/>
 
 <!-- ========== GITHUB STATISTICS ========== -->
-<h2>📊 <img src="./h_stats.svg" height="72" align="middle" alt="GitHub Statistics"/></h2>
+<p>📊 <img src="./h_stats.svg" height="72" align="middle" alt="GitHub Statistics"/></p>
 
 <p align="center">
   <img height="165"
@@ -139,10 +135,10 @@
        alt="Most used languages"/>
 </p>
 
----
+<br/>
 
 <!-- ========== CURRENT LEARNING ========== -->
-<h2>🎯 <img src="./h_learning.svg" height="72" align="middle" alt="Currently Learning"/></h2>
+<p>🎯 <img src="./h_learning.svg" height="72" align="middle" alt="Currently Learning"/></p>
 
 <ul>
   <li>Jenkins pipelines and CI/CD</li>
@@ -152,7 +148,7 @@
   <li>Terraform and Kubernetes fundamentals</li>
 </ul>
 
----
+<br/>
 
 <p align="center">
   <b>BUILD • AUTOMATE • DEPLOY • LEARN • REPEAT</b>
